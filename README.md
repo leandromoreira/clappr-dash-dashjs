@@ -1,6 +1,6 @@
-# clappr-dash-shaka
+# clappr-dash-dashjs
 
-A [clappr](https://github.com/clappr/clappr) playback to play dash based on [shaka-player](https://github.com/google/shaka-player).
+A [clappr](https://github.com/clappr/clappr) playback to play dash based on [dashjs](https://github.com/Dash-Industry-Forum/dash.js).
 
 Install dependencies:
 
