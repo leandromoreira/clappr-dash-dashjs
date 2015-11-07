@@ -27,7 +27,6 @@ export default class DashDashjsPlayback extends HTML5Video {
   }
 
   _setup() {
-    debugger
     var player = new MediaPlayer(new Dash.di.DashContext())
     player.startup()
     player.attachView(this.el)
