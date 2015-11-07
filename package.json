@@ -1,5 +1,5 @@
 {
-  "name": "clappr-dash-dashjs",
+  "name": "dash-dashjs-playback",
   "version": "1.0.0",
   "description": "clappr dash playback based on dashjs player",
   "main": "index.js",
@@ -14,9 +14,6 @@
   },
   "author": "Leandro Moreira <leandro.ribeiro.moreira@gmail.com>",
   "license": "BSD-3-Clause",
-  "dependencies": {
-    "dashjs-player": "Dash-Industry-Forum/dash.js#v1.5.1"
-  },
   "devDependencies": {
     "webpack": "^1.12.1",
     "webpack-dev-server": "^1.10.1",
